@@ -1,0 +1,11 @@
+Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kHz),Colour Code,Timeslot,Contact,TG List,DMR ID,TS1_TA_Tx,TS2_TA_Tx ID,RX Tone,TX Tone,Squelch,Power,Rx Only,Zone Skip,All Skip,TOT,VOX,No Beep,No Eco
+1,Saratoga Springs,Digital,447.425,442.425,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
+2,Draper,Digital,446.775,441.775,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
+3,Logan,Digital,447,442,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
+4,Promontory,Digital,447.35,442.35,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
+5,Tremonton,Digital,447.125,442.125,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
+6,Salt Lake City,Digital,447.9375,442.9375,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
+7,St George,Digital,448.05,443.05,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
+8,Tooele,Digital,447.8125,442.8125,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
+9,Elk Ridge,Digital,449.8,444.8,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
+10,Woods Cross,Digital,442.375,447.375,,1,1,None,Utah TG,None,Off,Off,,,,Master,No,No,No,0,Off,No,No
